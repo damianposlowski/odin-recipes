@@ -1,0 +1,35 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+}
+
+h1,
+.cat {
+    font-weight: 700;
+}
+
+.low {
+    font-weight: 200;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+.item {
+    font-size: 20px;
+}
+
+img {
+    height: 600px;
+    width: auto;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.ing {
+    color: #560f15;
+}
